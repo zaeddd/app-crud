@@ -22,7 +22,7 @@
                     <th>Name</th>
                     <th>Quantity</th>
                     <th>Price</th>
-                    <th>Description</th>
+                    <th>Descriptionnnnn</th>
                 </tr>
                 @foreach ( $products as $product )
                     <tr>
